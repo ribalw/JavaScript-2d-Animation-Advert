@@ -8,7 +8,7 @@ This main purpose project is to practice and demonstrate various animation featu
 
 Problems:
 Following problems were encountered while implementing this coursework.
-•	Creating a seamless scrolling background.
+_•	Creating a seamless scrolling background.
 •	Finding and adjusting multiple sprites in the story.
 •	Adjusting multiple scenes into the story at a specific time interval.
 •	Get the axis to draw objects.
@@ -17,7 +17,7 @@ Following problems were encountered while implementing this coursework.
 •	Changing scenes at an exact time to create a meaningful scene.
 •	Creating and tweening from circle to crescent-shaped polygon.
 •	Converting 2d scenes into 3d.
-•	Transit objects smoothly.
+•	Transit objects smoothly._
 
 Special features/functions:
 -Scene Transition
